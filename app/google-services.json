@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "632717203494",
+    "firebase_url": "https://jarvis-assistant-kotlin.firebaseio.com",
+    "project_id": "jarvis-assistant-kotlin",
+    "storage_bucket": "jarvis-assistant-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632717203494:android:f41240ce03a7b600",
+        "android_client_info": {
+          "package_name": "com.jarvis.speechrecognitionkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632717203494-vgdvcbltc7tjk3qsgla1ho4ddftj5tfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jarvis.speechrecognitionkotlin",
+            "certificate_hash": "e356e7da61ffe4659c8955ca3c8c3a4c453f519e"
+          }
+        },
+        {
+          "client_id": "632717203494-0lqlpsdq38q603s9l8nkiu6ckjkle4dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVpzotbsdbZRVmvTza9xQMXc2VAma0v3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632717203494-0lqlpsdq38q603s9l8nkiu6ckjkle4dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
